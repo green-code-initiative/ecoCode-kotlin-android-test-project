@@ -3,7 +3,7 @@ Plugin SonarQube Android Kotlin Test Project
 This project aims to demonstrate how to integrate plugin-sonarqube with android project in kotlin
 Initialization
 
-Before starting, you have to run a sonarqube instance with the ecoCode Android plugin running. Please follow the documentation: https://github.com/green-code-initiative/ecoCode-mobile-kotlin/blob/main/README.md.
+Before starting, you have to run a sonarqube instance with the ecoCode Android plugin running. Please follow the documentation: https://github.com/green-code-initiative/ecoCode-kotlin-android/blob/main/README.md.
 
 On the deployed SonarQube instance, configure a project with the following properties:
 
